@@ -1,4 +1,4 @@
-﻿#androidkeystore配置
+
  Android将debug.keystore改为和发布的key的sha1签名一样
 在使用第三方sdk时，例如百度地图，需要使用签名的sha1的值。这个值可以在eclipse->windows->preferences->android->build里看到。
 但这个值和发布key的sha1是不一样的。其实可以通过设置custom keystore的方式，使debug.keystore和发布的keystore的sha1值一样。
