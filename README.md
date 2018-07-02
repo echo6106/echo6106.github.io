@@ -4,7 +4,8 @@
 
 ## Live Demo
 
-See [Vno - Jekyll](http://vno.onevcat.com) site and [my blog](http://onevcat.com).
+See [Vno - Jekyll](http://vno.onevcat.com) site and [onevcat blog](http://onevcat.com).[echo6106 blog](https://echo6106.github.io/).
+
 
 You can also find some instruction as well as other sites using Vno theme in [this page](http://vno.onevcat.com/2016/02/hello-world-vno/).
 
